@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/UnitConverter.html"
+status = 200
