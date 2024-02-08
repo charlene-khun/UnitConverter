@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(Inter-Bold.ttf);
+}
+
+@font-face {
+  font-family: Inter1;
+  src: url(Inter-Regular.ttf);
+}
+
+.hero {
+    height: 285px;
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+#text1
+{
+    font-size: 28px;
+    font-family: Inter;
+}
+
+input, textarea
+{
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    width: 117px;
+    height: 83px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-size: 58px;
+    background-color: #6943fe;
+    line-height: 24.39px;
+    font-family: Inter;
+}
+
+input[type=text]
+{
+    color: white;
+}
+
+#convert-btn
+{
+    width: 117px;
+    height: 42px;
+    margin: 25px;
+    padding: 9px, 27.5px, 9px, 27.5px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.05);
+    font-family: Inter1;
+    color: #3D3D3D;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+.section1 {
+    background: white;
+    padding: 10px;
+    height: 108.75 px;
+    margin-top: 30px;
+    font-family: Inter1;
+    color: #5A537B;
+    border-radius: 5px;
+}
+
+#length-el1
+{
+    font-family: Inter1;
+    font-size: 14px;
+    color: #353535;
+}
+
+.section2 {
+    background: white;
+    margin-top: 30px;
+    padding: 10px;
+    height: 108.75 px;
+    font-family: Inter1;
+    color: #5A537B;
+    border-radius: 5px;
+}
+
+#length-el2
+{
+    font-family: Inter1;
+    font-size: 14px;
+    color: #353535;
+}
+
+.section3 {
+    background: white;
+    margin-top: 30px;
+    padding: 10px;
+    height: 108.75 px;
+    font-family: Inter1;
+    color: #5A537B;
+    border-radius: 5px;
+}
+
+#length-el3
+{
+    font-family: Inter1;
+    font-size: 14px;
+    color: #353535;
+}
+
